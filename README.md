@@ -1,7 +1,7 @@
-# pedantic=atlantic-semantic
+# pedantic-atlantic-semantic
 Challenge 1 assignment for UoB Bootcamp due 07-07-22 (updated 24/10/22)
 
-Deployed link: 
+Deployed link: https://jonacko.github.io/pedantic-atlantic-semantic/
 
 Contents:
 
@@ -13,7 +13,7 @@ Contents:
 
 # 1. Summary
 
-This project was undertaken as a submission for a Birmingham City Bootcamp assignment, with a brief to refactor the existing starter code with a view to improve accessibility and SEO rankings by introducing semantic HTML and consolodating CSS code where necessary.  The code style uses basic HTML and CSS.  The user story and acceptance criteria are as follows:
+This project was undertaken as a submission for a UoB Bootcamp assignment, with a brief to refactor the existing starter code with a view to improve accessibility and SEO rankings by introducing semantic HTML and consolodating CSS code where necessary.  The code style uses basic HTML and CSS.  The user story and acceptance criteria are as follows:
 
 <img src ="Develop/assets/images/module-1-user-story.png">
 
@@ -58,7 +58,7 @@ Two of the three links from the nav bar to other areas on the webpage worked usi
 
  After removing all the div elements and replacing with semantic HMTL elements, the 'aside' section moved down the page.  I tried a number of things to fix this, such as wrapping the aside into the main and reintroducing divs.  
 
-Eventually, I changed the 'position' of the aside section, by moving it up from the bottom by 960 px (see below), and this moved the 'aside' section upwards to the correct position.  However this inevitably resulted in a large gap between the main/aside section of the webpage and the footer.  I understand this is not an ideal solution, but it was the best fix I could manage at the time!
+Eventually, I changed the 'position' of the aside section, by moving it up from the bottom by 960 px, and this moved the 'aside' section upwards to the correct position.  However this inevitably resulted in a large gap between the main/aside section of the webpage and the footer.  I understand this is not an ideal solution, but it was the best fix I could manage at the time!
 
 
 ## 4. Further questions/contributions
