@@ -15,11 +15,11 @@ Contents:
 
 This project was undertaken as a submission for a UoB Bootcamp assignment, with a brief to refactor the existing starter code with a view to improve accessibility and SEO rankings by introducing semantic HTML and consolodating CSS code where necessary.  The code style uses basic HTML and CSS.  The user story and acceptance criteria are as follows:
 
-<img src ="Develop/assets/images/module-1-user-story.png">
+<img src ="assets/images/module-1-user-story.png">
 
 The image below shows the appearance of the deployed application
 
-<img src ="Develop/assets/images/module-1-deployed.png">
+<img src ="assets/images/module-1-deployed.png">
 
 # 2. Key amendments
 
