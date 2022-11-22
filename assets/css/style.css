@@ -67,23 +67,17 @@ p {
     background-position: center;
 }
 
-/* MAIN SECTION BLOCK ELEMEMTS */
-
-/* Search Engine Optimization */
+/* MAIN SECTION BLOCK ELEMENTS */
 
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
-/* Online Reuptation Management */
-
 .float-right {
     float: right;
     margin-left: 25px;
 }
-
-/* Social Madia Marketing */
 
 .content {
     width: 75%;
