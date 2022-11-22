@@ -1,7 +1,15 @@
 # pedantic-atlantic-semantic
-Challenge 1 assignment for UoB Bootcamp due 07-07-22 (updated 24/10/22)
+Challenge 1 assignment for UoB Bootcamp due 07-07-22 (updated 22/11/22)
 
 Deployed link: https://jonacko.github.io/pedantic-atlantic-semantic/
+
+***** UPDATES FOR SUBMISSION 22/11/22 *****
+
+- Fixed HTML syntax/closing tags
+- CSS comments updated
+- Checked deployed link works
+
+*******************************************
 
 Contents:
 
